@@ -1,0 +1,72 @@
+
+/* tag selector */
+
+html{
+    font-size: 10px;
+    font-family: 'Itim', cursive;
+    background-color: #00539F
+}
+
+p{
+    color: rgb(85, 35, 62);
+    width: 500px;
+    border: 1px solid black;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+
+
+/* id selector */
+#long-story{
+    font-size: 12px;
+
+    padding: 0%;
+    border: 1px solid rgb(102, 81, 81);
+    margin: 3px;
+    width: auto;
+    background-color: gray;
+    color: blueviolet;
+    text-shadow: 1px;
+    display: block;
+}
+
+/* class selector */
+.my-class{
+
+}
+
+/* attribute selector */
+img[src]{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+/* move selector */
+a:hover{
+    color: aqua;
+}

@@ -1,7 +1,5 @@
 # equals() 和 hashcode()
 
-![pic](https://w.wallhaven.cc/full/dg/wallhaven-dgy7mg.jpg)
-
 ### 为什么重写equals()的时候也要重写hashcode()
 
 **==** 比较内存地址，判断是否指向同一个对象

@@ -1,3 +1,3 @@
-![image.png](![image.png](https://i.loli.net/2021/07/09/WGOmI41NeVJ7BnL.png))
+![image.png](static/imgs/2.jpg)
 
 [Click](index_cro.html)

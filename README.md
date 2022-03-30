@@ -1,10 +1,7 @@
-# iler.github.io
+# Welcome
 
-网站架构更新  
-github 保存静态信息，通过ajax与个人服务器通讯
+<!-- ## REF -->
 
-## REF
+<!-- [利用 github pages 与 github api 搭建博客](https://github.com/eyasliu/blog/issues/2#issue-153663516) -->
 
-[利用 github pages 与 github api 搭建博客](https://github.com/eyasliu/blog/issues/2#issue-153663516)
-
-
+this site is building now!
